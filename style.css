@@ -248,18 +248,20 @@
 #text_6 {
     /* Become a Member */
     position: absolute;
-    width: 212px;
-    height: 22px;
+    width: 182px;
+    height: 28px;
     left: 13px;
-    top: 9px;
+    top: -1px;
     font-family: Roboto Slab;
     font-style: normal;
-    font-weight: bold;
-    font-size: 24px;
+    font-weight: 300;
+    font-size: 26px;
     line-height: 22px;
-    /* identical to box height, or 92% */
-    color: #FFFFFF;
-    cursor: pointer;
+    cursor: cursor;
+    background: black;
+    color: #e9ebf5;
+    text-decoration-line: none;
+    box-shadow: none;
 }
 
 #about_us_frame {
